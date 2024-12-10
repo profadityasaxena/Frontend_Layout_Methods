@@ -1,7 +1,7 @@
 # Frontend Layout Methods
 
 ## Description
-This project focuses on various methods for laying out a web page using HTML and CSS. It explores different techniques and frameworks to create responsive and visually appealing web designs.
+This project focuses on various methods for laying out a web page using HTML and CSS. It explores different techniques and frameworks to create responsive and visually appealing web designs. We will use the following free template and try to build it using different methods: [Tyche by ColorLib](https://colorlibhub.com/tyche/).
 
 ## Important Layout Methods
 1. **Flexbox**
