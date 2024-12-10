@@ -1,0 +1,64 @@
+Tyche Template Components:
+
+0. The 'assets' folder contains important items and images from the original template that will be used in all the other templates.
+
+1. Header
+    - Logo: The brand or website logo.
+    - Navigation Menu: Links to different sections of the website.
+    - Search Bar: Input field for searching the website content.
+    - User Profile: User account information and settings.
+
+2. Hero Section
+    - Background Image: A large, visually appealing image.
+    - Headline: Main title or message.
+    - Call to Action (CTA) Button: Button to prompt user action.
+
+3. Features Section
+    - Feature Item: Individual feature description.
+      - Icon: Visual representation of the feature.
+      - Title: Name of the feature.
+      - Description: Brief explanation of the feature.
+
+4. Services Section
+    - Service Item: Individual service description.
+      - Icon: Visual representation of the service.
+      - Title: Name of the service.
+      - Description: Brief explanation of the service.
+
+5. Testimonials Section
+    - Testimonial Item: Individual testimonial.
+      - User Photo: Picture of the user giving the testimonial.
+      - User Name: Name of the user.
+      - User Position: Position or title of the user.
+      - Testimonial Text: The testimonial content.
+
+6. Pricing Section
+    - Pricing Plan: Individual pricing plan.
+      - Plan Name: Name of the pricing plan.
+      - Price: Cost of the plan.
+      - Features List: List of features included in the plan.
+      - CTA Button: Button to select the plan.
+
+7. Blog Section
+    - Blog Post: Individual blog post preview.
+      - Thumbnail Image: Image representing the blog post.
+      - Title: Title of the blog post.
+      - Excerpt: Short summary of the blog post.
+      - Read More Link: Link to the full blog post.
+
+8. Contact Section
+    - Contact Form: Form for users to send messages.
+      - Name Field: Input field for the user's name.
+      - Email Field: Input field for the user's email.
+      - Message Field: Input field for the user's message.
+      - Submit Button: Button to submit the form.
+    - Contact Information: Details for contacting the website owner.
+      - Address: Physical address.
+      - Phone Number: Contact phone number.
+      - Email Address: Contact email address.
+
+9. Footer
+    - Social Media Links: Links to social media profiles.
+    - Quick Links: Links to important pages.
+    - Newsletter Signup: Form to subscribe to the newsletter.
+    - Copyright Information: Legal information about the website.
